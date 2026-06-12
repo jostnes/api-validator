@@ -2,7 +2,7 @@
 Simple test framework to test REST APIs
 
 ## How to test locally
-1. Use node v14.17.1
+1. Use node v20
 2. Run `yarn` on terminal
 3. Create .env file, copy variables in .env.example and replace the values with the correct addresses
 4. Run `yarn test` on terminal
